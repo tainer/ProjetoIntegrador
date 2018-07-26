@@ -1,2 +1,3 @@
 # ProjetoIntegrador
-1. Tainer Poletto
+1. Tainer Poletto;
+2. Novo nome;
