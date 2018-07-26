@@ -1,2 +1,2 @@
 # ProjetoIntegrador
-1. Tainer
+1. Tainer Poletto
